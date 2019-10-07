@@ -26,3 +26,13 @@ html {
   border-radius: 10px;
   text-align: left;
 }
+
+.card img {
+  display: block;
+  margin: 0 auto 1rem;
+  font-size: 1.125;
+}
+
+.cards dl {
+  margin-bottom: 1rem;
+}
